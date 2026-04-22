@@ -1,7 +1,7 @@
 <?php return array(
     'root' => array(
         'name' => 'salymmbise/evmak-php',
-        'pretty_version' => '1.0.0+no-version-set',
+        'pretty_version' => '1.0.0',
         'version' => '1.0.0.0',
         'reference' => null,
         'type' => 'library',
@@ -92,7 +92,7 @@
             'dev_requirement' => false,
         ),
         'salymmbise/evmak-php' => array(
-            'pretty_version' => '1.0.0+no-version-set',
+            'pretty_version' => '1.0.0',
             'version' => '1.0.0.0',
             'reference' => null,
             'type' => 'library',
