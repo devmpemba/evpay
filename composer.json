@@ -3,7 +3,6 @@
   "description": "EvMak MNO Payment API PHP SDK",
   "type": "library",
   "license": "MIT",
-  "version": "1.0.0",
   "autoload": {
     "psr-4": {
       "EvMak\\": "src/"
