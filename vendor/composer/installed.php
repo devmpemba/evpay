@@ -1,6 +1,6 @@
 <?php return array(
     'root' => array(
-        'name' => 'salymmbise/evmak-php',
+        'name' => 'salymmbise/evpay',
         'pretty_version' => '1.0.0',
         'version' => '1.0.0.0',
         'reference' => null,
@@ -91,7 +91,7 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'salymmbise/evmak-php' => array(
+        'salymmbise/evpay' => array(
             'pretty_version' => '1.0.0',
             'version' => '1.0.0.0',
             'reference' => null,
